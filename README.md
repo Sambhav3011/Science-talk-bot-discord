@@ -20,7 +20,7 @@ A simple, AI-powered Discord bot that answers science-related questions using Gr
 You can either clone it using Git or download it manually from GitHub.
 
 ```bash
-git clone https://github.com/yourusername/science-talk-bot.git
+git clone https://github.com/Sambhav3011/science-talk-bot.git
 cd science-talk-bot
 ```
 ### 2. Install Dependencies
